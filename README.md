@@ -1,3 +1,7 @@
+Número de grupo: X
+Integrantes:
+Agustín Di Giuseppe
+
 # Calc
 
 Calculadora con funciones simples.
