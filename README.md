@@ -1,6 +1,7 @@
 Número de grupo: X
 Integrantes:
 Agustín Di Giuseppe
+Julián Noceloni
 
 # Calc
 
