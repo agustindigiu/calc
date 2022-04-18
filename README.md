@@ -1,5 +1,5 @@
-Número de grupo: X
-Integrantes:
+# Número de grupo: X
+# Integrantes del grupo
 Agustín Di Giuseppe
 Julián Noceloni
 
